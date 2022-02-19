@@ -641,7 +641,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/libLpnav.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libLpnav.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/libLpservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libLpservice.so \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/libSp_client.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSp_client.so \
-    vendor/xiaomi/landtoni/proprietary/vendor/lib64/libSpservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSpservice.so
+    vendor/xiaomi/landtoni/proprietary/vendor/lib64/libSpservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSpservice.so \
     vendor/xiaomi/landtoni/proprietary/etc/cne/Nexus/ATT/ATT_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/ATT/ATT_profiles.xml \
     vendor/xiaomi/landtoni/proprietary/etc/cne/Nexus/ROW/ROW_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/ROW/ROW_profiles.xml \
     vendor/xiaomi/landtoni/proprietary/etc/cne/Nexus/VZW/VZW_profiles.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/cne/Nexus/VZW/VZW_profiles.xml \
@@ -1277,7 +1277,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/landtoni/proprietary/vendor/res/charger/battery_num_7.png:$(TARGET_COPY_OUT_VENDOR)/res/charger/battery_num_7.png \
     vendor/xiaomi/landtoni/proprietary/vendor/res/charger/battery_num_8.png:$(TARGET_COPY_OUT_VENDOR)/res/charger/battery_num_8.png \
     vendor/xiaomi/landtoni/proprietary/vendor/res/charger/battery_num_9.png:$(TARGET_COPY_OUT_VENDOR)/res/charger/battery_num_9.png \
-    vendor/xiaomi/landtoni/proprietary/vendor/res/charger/battery_scale.png:$(TARGET_COPY_OUT_VENDOR)/res/charger/battery_scale.png
+    vendor/xiaomi/landtoni/proprietary/vendor/res/charger/battery_scale.png:$(TARGET_COPY_OUT_VENDOR)/res/charger/battery_scale.png \
     vendor/xiaomi/landtoni/proprietary/vendor/bin/hw/qcrild:$(TARGET_COPY_OUT_VENDOR)/bin/hw/qcrild \
     vendor/xiaomi/landtoni/proprietary/vendor/etc/init/qcrild.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/qcrild.rc \
     vendor/xiaomi/landtoni/proprietary/vendor/lib64/libqcrilFramework.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libqcrilFramework.so \
